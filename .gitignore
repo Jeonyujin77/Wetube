@@ -1,0 +1,4 @@
+# github 관리대상에서 제외시킨다
+node_modules 
+.fusebox
+package-lock.json
